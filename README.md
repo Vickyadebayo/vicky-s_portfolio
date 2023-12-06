@@ -32,7 +32,7 @@ Key metrics displayed on the dashboard include:
 2) Specialization of publishing houses
 3) Age analysis of Authors
    
-# [Project 2: King's Palace Hotelbookings analysis]https://www.datascienceportfol.io/victoriaadebayo/projects/1
+# [Project 2: King's Palace Hotelbookings analysis](https://www.datascienceportfol.io/victoriaadebayo/projects/1)
 
 The main goal is to extract meaningful insights and pattern from the data, in order to help in predictinng future trends, managing resources efficiently, and enhancing overall customer satisfaction.
 
