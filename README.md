@@ -17,6 +17,8 @@ Key metrics displayed in the dashboard include:
 4) Total revenue by location
 
 The dashboard also filter by product category, team, year,quarter and month.
+<img width="950" alt="Screenshot 2023-12-01 144852" src="https://github.com/Vickyadebayo/vicky-s_portfolio/assets/147439774/a600c4ef-1d09-46ba-84d7-d221c057d4d5">
+
 
 # [Project 2: Bookshop analysis](https://www.datascienceportfol.io/victoriaadebayo/projects/0)
 
@@ -31,8 +33,10 @@ Key metrics displayed on the dashboard include:
 1) Trend of book publication over the years
 2) Specialization of publishing houses
 3) Age analysis of Authors
+   <img width="950" alt="TABLEAU" src="https://github.com/Vickyadebayo/vicky-s_portfolio/assets/147439774/f3cb5336-ae18-4472-b9a3-d038fa55f92a">
+
    
-# [Project 2: King's Palace Hotelbookings analysis](https://www.datascienceportfol.io/victoriaadebayo/projects/1)
+# [Project 3: King's Palace Hotelbookings analysis](https://www.datascienceportfol.io/victoriaadebayo/projects/1)
 
 The main goal is to extract meaningful insights and pattern from the data, in order to help in predictinng future trends, managing resources efficiently, and enhancing overall customer satisfaction.
 
@@ -48,3 +52,5 @@ Key metrics displayed in the dashboard include:
 4) Reservation by market segment
 
 The dashboard also filter by customer type, market segment, and reservation status date.
+<img width="949" alt="e" src="https://github.com/Vickyadebayo/vicky-s_portfolio/assets/147439774/04a22e55-2bd3-4893-8843-45aac5778d66">
+
