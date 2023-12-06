@@ -1,7 +1,7 @@
 # vicky-s_portfolio
 
 
-# [Project 1: medicore pharmaceuticals](https://www.datascienceportfol.io/victoriaadebayo/projects/0)
+# [Project 1: medicore pharmaceuticals](https://www.datascienceportfol.io/victoriaadebayo/projects/2)
 
 The main goal is to extract meaningful insights and pattern from the data to identify trends in drug efficacy in order to help in predictinng future trends, safety profiles, achievement by sales team, most sort after product. managing resources efficiently, and enhancing overall customer satisfaction.
 
